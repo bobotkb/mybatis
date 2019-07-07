@@ -1,0 +1,3 @@
+2019-07-07
+mybatis项目练习，mybatis01数据库连接的是mysql/mybaits
+mybatis项目练习，mybatis02test数据库连接的是oracle/orcl,用户名是Scott，密码tiger
